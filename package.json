@@ -1,0 +1,19 @@
+{
+  "name": "webxr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcbat73/webXR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcbat73/webXR/issues"
+  },
+  "homepage": "https://github.com/rcbat73/webXR#readme"
+}
